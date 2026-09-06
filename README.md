@@ -1,6 +1,4 @@
-# ClauseLens — RAG for Contract Intelligence
 
-**Avathon · Scenario  (Gen AI for Enterprise Documents) · Track  (RAG / LLM Knowledge Systems)**
 
 **Problem.** Legal teams are drowning in unstructured commercial contracts. Answering a
 routine question — *"what is the termination notice period in this agreement?"* — means
